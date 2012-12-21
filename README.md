@@ -1,4 +1,4 @@
 Scripts
 =======
 
-Scrips i write for handling basic tasks in linux
+Scripts I write to handle basic tasks in linux
